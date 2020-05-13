@@ -20,5 +20,8 @@
     "koa-router": "^8.0.8",
     "koa-static": "^5.0.0",
     "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@sishuguojixuefu/eslint-config": "^0.12.0"
   }
 }
