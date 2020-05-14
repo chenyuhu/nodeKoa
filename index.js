@@ -19,4 +19,7 @@ router.get('/test', (ctx, next) => {
 
 app.use(router.routes()).use(router.allowedMethods())
 
-app.listen(3001)
+app.listen(8090)
+console.log('======================================')
+console.log('服务启动中')
+console.log('======================================')
