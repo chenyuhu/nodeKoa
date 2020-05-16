@@ -8,3 +8,6 @@ yarn-error.log*
 
 # editor
 .vscode
+
+# start
+static
