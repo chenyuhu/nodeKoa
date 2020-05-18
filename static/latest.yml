@@ -1,9 +1,9 @@
 version: 0.13.3-alpha
 files:
   - url: 晞格玛·云 Setup 0.13.3-alpha.exe
-    sha512: rePtCt2wH8HhkwrDj0UhlLp9oBqA8nS/8csH+I/5pTYcu9BypFW2VFU4cHaGqfdurJXoj6MIuukzu4IVzgCtHw==
-    size: 158476156
+    sha512: 8T4ipPRXnEAb6KA9zJxOjtO602iu2FohKFcutwxsFIIPUtIZLbQ8n0qbZmmHR+DHaNjdEdI4la85S6Fv8sMyFA==
+    size: 158558976
 path: 晞格玛·云 Setup 0.13.3-alpha.exe
-sha512: rePtCt2wH8HhkwrDj0UhlLp9oBqA8nS/8csH+I/5pTYcu9BypFW2VFU4cHaGqfdurJXoj6MIuukzu4IVzgCtHw==
+sha512: 8T4ipPRXnEAb6KA9zJxOjtO602iu2FohKFcutwxsFIIPUtIZLbQ8n0qbZmmHR+DHaNjdEdI4la85S6Fv8sMyFA==
 releaseNotes: 1. 修复退出群聊报错 <br> 2. 切换对话清空消息 <br> 3. 群聊查看群成员可发送消息
-releaseDate: '2020-05-16T04:13:55.069Z'
+releaseDate: '2020-05-18T03:54:34.906Z'
