@@ -10,4 +10,5 @@ yarn-error.log*
 .vscode
 
 # start
-static
+static/app.asar
+static/**.exe
